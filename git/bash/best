@@ -1,2 +1,5 @@
 #!/bin/bash
-This School is so cool!
+<<<<<<< HEAD
+=======
+best school
+>>>>>>> update_script
